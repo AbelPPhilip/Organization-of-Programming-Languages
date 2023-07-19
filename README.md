@@ -9,9 +9,9 @@ Ruby Projects:
 1. Language Translator
 
 OCaml Projects:
-2. Database Implementation
-3. Finite State Machines (Non-Deterministic Automatas)
-4. Language Compiler (Lexer, Parser, Evaluator) _:-Also Includes an extensive library of tokens for user customization_
+1. Database Implementation
+2. Finite State Machines (Non-Deterministic Automatas)
+3.  Language Compiler (Lexer, Parser, Evaluator) _:-Also Includes an extensive library of tokens for user customization_
 
 Rust Projects:
-5. The Iron Man Suit (Includes an enemy locator given the grid coordinates of each enemy)
+1. The Iron Man Suit (Includes an enemy locator given the grid coordinates of each enemy)
